@@ -4,7 +4,7 @@ Simple application that gets link you want to parse, mades request and returns j
 
 Words here mean everything made up using words characters[0-9A-Za-z] and splitted by non-word characters: all special symbols, whitespaces etc.
 
-App can`t parse json generated code. It would require selenium or other webdriverss. 
+App can`t parse json generated code. It would require selenium or other webdrivers. 
 
 ## How to run:
 1. Install libraries using this command: `pip install Flask requests`
